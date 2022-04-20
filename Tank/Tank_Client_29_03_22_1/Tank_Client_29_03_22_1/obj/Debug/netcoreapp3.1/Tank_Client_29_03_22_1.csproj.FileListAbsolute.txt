@@ -1,0 +1,13 @@
+C:\Users\сом\Desktop\Tank_Client_29_03_22_1\Tank_Client_29_03_22_1\bin\Debug\netcoreapp3.1\Tank_Client_29_03_22_1.exe
+C:\Users\сом\Desktop\Tank_Client_29_03_22_1\Tank_Client_29_03_22_1\bin\Debug\netcoreapp3.1\Tank_Client_29_03_22_1.deps.json
+C:\Users\сом\Desktop\Tank_Client_29_03_22_1\Tank_Client_29_03_22_1\bin\Debug\netcoreapp3.1\Tank_Client_29_03_22_1.runtimeconfig.json
+C:\Users\сом\Desktop\Tank_Client_29_03_22_1\Tank_Client_29_03_22_1\bin\Debug\netcoreapp3.1\Tank_Client_29_03_22_1.runtimeconfig.dev.json
+C:\Users\сом\Desktop\Tank_Client_29_03_22_1\Tank_Client_29_03_22_1\bin\Debug\netcoreapp3.1\Tank_Client_29_03_22_1.dll
+C:\Users\сом\Desktop\Tank_Client_29_03_22_1\Tank_Client_29_03_22_1\bin\Debug\netcoreapp3.1\Tank_Client_29_03_22_1.pdb
+C:\Users\сом\Desktop\Tank_Client_29_03_22_1\Tank_Client_29_03_22_1\obj\Debug\netcoreapp3.1\Tank_Client_29_03_22_1.AssemblyInfoInputs.cache
+C:\Users\сом\Desktop\Tank_Client_29_03_22_1\Tank_Client_29_03_22_1\obj\Debug\netcoreapp3.1\Tank_Client_29_03_22_1.AssemblyInfo.cs
+C:\Users\сом\Desktop\Tank_Client_29_03_22_1\Tank_Client_29_03_22_1\obj\Debug\netcoreapp3.1\Tank_Client_29_03_22_1.csproj.CoreCompileInputs.cache
+C:\Users\сом\Desktop\Tank_Client_29_03_22_1\Tank_Client_29_03_22_1\obj\Debug\netcoreapp3.1\Tank_Client_29_03_22_1.dll
+C:\Users\сом\Desktop\Tank_Client_29_03_22_1\Tank_Client_29_03_22_1\obj\Debug\netcoreapp3.1\Tank_Client_29_03_22_1.pdb
+C:\Users\сом\Desktop\Tank_Client_29_03_22_1\Tank_Client_29_03_22_1\obj\Debug\netcoreapp3.1\Tank_Client_29_03_22_1.genruntimeconfig.cache
+C:\Users\сом\Desktop\Tank_Client_29_03_22_1\Tank_Client_29_03_22_1\obj\Debug\netcoreapp3.1\Tank_Client_29_03_22_1.csprojAssemblyReference.cache
